@@ -1,0 +1,8 @@
+C:\Users\gosha\source\repos\Design Patterns\Singleton\bin\Release\netcoreapp3.1\publish\Singleton.exe
+C:\Users\gosha\source\repos\Design Patterns\Singleton\bin\Release\netcoreapp3.1\publish\Capitols.txt
+C:\Users\gosha\source\repos\Design Patterns\Singleton\bin\Release\netcoreapp3.1\publish\Singleton.dll
+C:\Users\gosha\source\repos\Design Patterns\Singleton\bin\Release\netcoreapp3.1\publish\Singleton.deps.json
+C:\Users\gosha\source\repos\Design Patterns\Singleton\bin\Release\netcoreapp3.1\publish\Singleton.runtimeconfig.json
+C:\Users\gosha\source\repos\Design Patterns\Singleton\bin\Release\netcoreapp3.1\publish\Singleton.pdb
+C:\Users\gosha\source\repos\Design Patterns\Singleton\bin\Release\netcoreapp3.1\publish\MoreLinq.dll
+C:\Users\gosha\source\repos\Design Patterns\Singleton\bin\Release\netcoreapp3.1\publish\nunit.framework.dll

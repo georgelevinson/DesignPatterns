@@ -1,0 +1,13 @@
+C:\Users\gosha\source\repos\Design Patterns\Prototype Inheritance Fixed\bin\Debug\netcoreapp3.1\Prototype Inheritance Fixed.exe
+C:\Users\gosha\source\repos\Design Patterns\Prototype Inheritance Fixed\bin\Debug\netcoreapp3.1\Prototype Inheritance Fixed.deps.json
+C:\Users\gosha\source\repos\Design Patterns\Prototype Inheritance Fixed\bin\Debug\netcoreapp3.1\Prototype Inheritance Fixed.runtimeconfig.json
+C:\Users\gosha\source\repos\Design Patterns\Prototype Inheritance Fixed\bin\Debug\netcoreapp3.1\Prototype Inheritance Fixed.runtimeconfig.dev.json
+C:\Users\gosha\source\repos\Design Patterns\Prototype Inheritance Fixed\bin\Debug\netcoreapp3.1\Prototype Inheritance Fixed.dll
+C:\Users\gosha\source\repos\Design Patterns\Prototype Inheritance Fixed\bin\Debug\netcoreapp3.1\Prototype Inheritance Fixed.pdb
+C:\Users\gosha\source\repos\Design Patterns\Prototype Inheritance Fixed\obj\Debug\netcoreapp3.1\Prototype Inheritance Fixed.csprojAssemblyReference.cache
+C:\Users\gosha\source\repos\Design Patterns\Prototype Inheritance Fixed\obj\Debug\netcoreapp3.1\Prototype Inheritance Fixed.AssemblyInfoInputs.cache
+C:\Users\gosha\source\repos\Design Patterns\Prototype Inheritance Fixed\obj\Debug\netcoreapp3.1\Prototype Inheritance Fixed.AssemblyInfo.cs
+C:\Users\gosha\source\repos\Design Patterns\Prototype Inheritance Fixed\obj\Debug\netcoreapp3.1\Prototype Inheritance Fixed.csproj.CoreCompileInputs.cache
+C:\Users\gosha\source\repos\Design Patterns\Prototype Inheritance Fixed\obj\Debug\netcoreapp3.1\Prototype Inheritance Fixed.dll
+C:\Users\gosha\source\repos\Design Patterns\Prototype Inheritance Fixed\obj\Debug\netcoreapp3.1\Prototype Inheritance Fixed.pdb
+C:\Users\gosha\source\repos\Design Patterns\Prototype Inheritance Fixed\obj\Debug\netcoreapp3.1\Prototype Inheritance Fixed.genruntimeconfig.cache

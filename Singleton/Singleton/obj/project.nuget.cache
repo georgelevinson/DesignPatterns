@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "8B1YMuPYYDk0jtTuDN/zyJqf6e9px4WDA9n0U9UWZkiSnbFOV+HOvN7vUokTW0NQb7A0V/moCn1nwkAumed84A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gosha\\source\\repos\\Design Patterns\\Singleton\\Singleton\\Singleton.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gosha\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\gosha\\.nuget\\packages\\morelinq\\3.3.2\\morelinq.3.3.2.nupkg.sha512",
+    "C:\\Users\\gosha\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\gosha\\.nuget\\packages\\nunit\\3.13.1\\nunit.3.13.1.nupkg.sha512"
+  ],
+  "logs": []
+}

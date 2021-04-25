@@ -1,0 +1,13 @@
+C:\Users\gosha\source\repos\Design Patterns\SOLID\Open-Closed\bin\Debug\netcoreapp3.1\Open-Closed.exe
+C:\Users\gosha\source\repos\Design Patterns\SOLID\Open-Closed\bin\Debug\netcoreapp3.1\Open-Closed.deps.json
+C:\Users\gosha\source\repos\Design Patterns\SOLID\Open-Closed\bin\Debug\netcoreapp3.1\Open-Closed.runtimeconfig.json
+C:\Users\gosha\source\repos\Design Patterns\SOLID\Open-Closed\bin\Debug\netcoreapp3.1\Open-Closed.runtimeconfig.dev.json
+C:\Users\gosha\source\repos\Design Patterns\SOLID\Open-Closed\bin\Debug\netcoreapp3.1\Open-Closed.dll
+C:\Users\gosha\source\repos\Design Patterns\SOLID\Open-Closed\bin\Debug\netcoreapp3.1\Open-Closed.pdb
+C:\Users\gosha\source\repos\Design Patterns\SOLID\Open-Closed\obj\Debug\netcoreapp3.1\Open-Closed.csprojAssemblyReference.cache
+C:\Users\gosha\source\repos\Design Patterns\SOLID\Open-Closed\obj\Debug\netcoreapp3.1\Open-Closed.AssemblyInfoInputs.cache
+C:\Users\gosha\source\repos\Design Patterns\SOLID\Open-Closed\obj\Debug\netcoreapp3.1\Open-Closed.AssemblyInfo.cs
+C:\Users\gosha\source\repos\Design Patterns\SOLID\Open-Closed\obj\Debug\netcoreapp3.1\Open-Closed.csproj.CoreCompileInputs.cache
+C:\Users\gosha\source\repos\Design Patterns\SOLID\Open-Closed\obj\Debug\netcoreapp3.1\Open-Closed.dll
+C:\Users\gosha\source\repos\Design Patterns\SOLID\Open-Closed\obj\Debug\netcoreapp3.1\Open-Closed.pdb
+C:\Users\gosha\source\repos\Design Patterns\SOLID\Open-Closed\obj\Debug\netcoreapp3.1\Open-Closed.genruntimeconfig.cache

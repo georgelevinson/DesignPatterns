@@ -1,0 +1,13 @@
+C:\Users\gosha\source\repos\Design Patterns\Copy Through Serialization\bin\Debug\netcoreapp3.1\Copy Through Serialization.exe
+C:\Users\gosha\source\repos\Design Patterns\Copy Through Serialization\bin\Debug\netcoreapp3.1\Copy Through Serialization.deps.json
+C:\Users\gosha\source\repos\Design Patterns\Copy Through Serialization\bin\Debug\netcoreapp3.1\Copy Through Serialization.runtimeconfig.json
+C:\Users\gosha\source\repos\Design Patterns\Copy Through Serialization\bin\Debug\netcoreapp3.1\Copy Through Serialization.runtimeconfig.dev.json
+C:\Users\gosha\source\repos\Design Patterns\Copy Through Serialization\bin\Debug\netcoreapp3.1\Copy Through Serialization.dll
+C:\Users\gosha\source\repos\Design Patterns\Copy Through Serialization\bin\Debug\netcoreapp3.1\Copy Through Serialization.pdb
+C:\Users\gosha\source\repos\Design Patterns\Copy Through Serialization\obj\Debug\netcoreapp3.1\Copy Through Serialization.csprojAssemblyReference.cache
+C:\Users\gosha\source\repos\Design Patterns\Copy Through Serialization\obj\Debug\netcoreapp3.1\Copy Through Serialization.AssemblyInfoInputs.cache
+C:\Users\gosha\source\repos\Design Patterns\Copy Through Serialization\obj\Debug\netcoreapp3.1\Copy Through Serialization.AssemblyInfo.cs
+C:\Users\gosha\source\repos\Design Patterns\Copy Through Serialization\obj\Debug\netcoreapp3.1\Copy Through Serialization.csproj.CoreCompileInputs.cache
+C:\Users\gosha\source\repos\Design Patterns\Copy Through Serialization\obj\Debug\netcoreapp3.1\Copy Through Serialization.dll
+C:\Users\gosha\source\repos\Design Patterns\Copy Through Serialization\obj\Debug\netcoreapp3.1\Copy Through Serialization.pdb
+C:\Users\gosha\source\repos\Design Patterns\Copy Through Serialization\obj\Debug\netcoreapp3.1\Copy Through Serialization.genruntimeconfig.cache
