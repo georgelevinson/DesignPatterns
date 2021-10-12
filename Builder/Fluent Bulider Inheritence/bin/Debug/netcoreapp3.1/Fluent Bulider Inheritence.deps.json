@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Fluent Bulider Inheritence/1.0.0": {
+        "runtime": {
+          "Fluent Bulider Inheritence.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Fluent Bulider Inheritence/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

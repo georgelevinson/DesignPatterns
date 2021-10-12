@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "2DnyztcZiaBfx82YA4bC1Qvyffs4l0Lt1KTdJGYJByIxkFC4vBWWjfKIfOL6E2+MM/F87n3jC+bVysd6gzJeeA==",
+  "dgSpecHash": "gDuiw+JXwuJYcIExN4hZzY4ju86tPVdClTNBMecCLv0ZoGBzs6aQZZ+X1s2DjY8tYIgz9hunDyecph6IuF2YUw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\gosha\\source\\repos\\Design Patterns\\Copy Through Serialization\\Copy Through Serialization.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\gosha\\source\\repos\\DesignPatterns\\Prototype\\Copy Through Serialization\\Copy Through Serialization.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gosha\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
   "logs": []
 }

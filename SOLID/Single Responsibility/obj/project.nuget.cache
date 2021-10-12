@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "R8sSsaEQ1ALLsveh9W4DX4AlnrCjjAi7QcQ/se9U3UwItvniA9ip95f0nNryiGYnRLjSEFKPOIVn1sN85WIBEw==",
+  "dgSpecHash": "23IDtB0DyHr+jAMH+QrpilW1lUUF65GKeCXYvO9VPyZNrDOwRP08b49k70rwuy4kb32st8DkNG9a8DjvrLQNtw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\gosha\\source\\repos\\Design Patterns\\SOLID\\Single Responsibility\\SOLID - S.csproj",
+  "projectFilePath": "C:\\Users\\gosha\\source\\repos\\DesignPatterns\\SOLID\\Single Responsibility\\Single Responsibility.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

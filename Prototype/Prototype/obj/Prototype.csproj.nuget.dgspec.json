@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gosha\\source\\repos\\Design Patterns\\Prototype\\Prototype.csproj": {}
+    "C:\\Users\\gosha\\source\\repos\\DesignPatterns\\Prototype\\Prototype\\Prototype.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gosha\\source\\repos\\Design Patterns\\Prototype\\Prototype.csproj": {
+    "C:\\Users\\gosha\\source\\repos\\DesignPatterns\\Prototype\\Prototype\\Prototype.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gosha\\source\\repos\\Design Patterns\\Prototype\\Prototype.csproj",
+        "projectUniqueName": "C:\\Users\\gosha\\source\\repos\\DesignPatterns\\Prototype\\Prototype\\Prototype.csproj",
         "projectName": "Prototype",
-        "projectPath": "C:\\Users\\gosha\\source\\repos\\Design Patterns\\Prototype\\Prototype.csproj",
+        "projectPath": "C:\\Users\\gosha\\source\\repos\\DesignPatterns\\Prototype\\Prototype\\Prototype.csproj",
         "packagesPath": "C:\\Users\\gosha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gosha\\source\\repos\\Design Patterns\\Prototype\\obj\\",
+        "outputPath": "C:\\Users\\gosha\\source\\repos\\DesignPatterns\\Prototype\\Prototype\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gosha\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -49,12 +49,18 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.1.18, 3.1.18]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.303\\RuntimeIdentifierGraph.json"
         }
       }
     }

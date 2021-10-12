@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fXjegbic/C3Wv2PevrbzZhaRkUTnJMdk957kNvC2EfmNth8vV4waBo4sSOoIKNGGXT/57ggE+tY1mB2942tEKg==",
+  "dgSpecHash": "ddq5g1F/1KQCvdGNTol8ULw398kuQHZxu2b46C3bECQADzDucMxzIR9fKIYh+xTwOIkhUaW2dr8QbRjyd+xcog==",
   "success": true,
-  "projectFilePath": "C:\\Users\\gosha\\source\\repos\\Design Patterns\\SOLID\\Open-Closed\\SOLID O.csproj",
+  "projectFilePath": "C:\\Users\\gosha\\source\\repos\\DesignPatterns\\SOLID\\Open-Closed\\Open-Closed.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

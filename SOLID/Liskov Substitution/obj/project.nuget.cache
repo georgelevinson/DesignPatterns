@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "684bmUyf/c7SMJBcYsKBJHD/raDd14yaT+nPDA3xwUWunR7w2tm4EOy9Hipo7LQ/3aS0HAsjFPo43V/DLVrGDg==",
+  "dgSpecHash": "46N3ooWkxEidGxPIfatGhWZ46LZVCtMdDDrEKRzWWAXNy2vocylwjBomQNjPbj/0BifqfJPCo3mxMLGTroBbhQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\gosha\\source\\repos\\Design Patterns\\SOLID\\Liskov Substitution\\SOLID L.csproj",
+  "projectFilePath": "C:\\Users\\gosha\\source\\repos\\DesignPatterns\\SOLID\\Liskov Substitution\\Liskov Substitution.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

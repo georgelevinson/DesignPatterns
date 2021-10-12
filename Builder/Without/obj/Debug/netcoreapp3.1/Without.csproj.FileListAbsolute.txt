@@ -1,0 +1,26 @@
+C:\Users\gosha\source\repos\Design Patterns\Builder\Without\obj\Debug\netcoreapp3.1\Without.csprojAssemblyReference.cache
+C:\Users\gosha\source\repos\Design Patterns\Builder\Without\obj\Debug\netcoreapp3.1\Without.AssemblyInfoInputs.cache
+C:\Users\gosha\source\repos\Design Patterns\Builder\Without\obj\Debug\netcoreapp3.1\Without.AssemblyInfo.cs
+C:\Users\gosha\source\repos\Design Patterns\Builder\Without\obj\Debug\netcoreapp3.1\Without.csproj.CoreCompileInputs.cache
+C:\Users\gosha\source\repos\Design Patterns\Builder\Without\bin\Debug\netcoreapp3.1\Without.exe
+C:\Users\gosha\source\repos\Design Patterns\Builder\Without\bin\Debug\netcoreapp3.1\Without.deps.json
+C:\Users\gosha\source\repos\Design Patterns\Builder\Without\bin\Debug\netcoreapp3.1\Without.runtimeconfig.json
+C:\Users\gosha\source\repos\Design Patterns\Builder\Without\bin\Debug\netcoreapp3.1\Without.runtimeconfig.dev.json
+C:\Users\gosha\source\repos\Design Patterns\Builder\Without\bin\Debug\netcoreapp3.1\Without.dll
+C:\Users\gosha\source\repos\Design Patterns\Builder\Without\bin\Debug\netcoreapp3.1\Without.pdb
+C:\Users\gosha\source\repos\Design Patterns\Builder\Without\obj\Debug\netcoreapp3.1\Without.dll
+C:\Users\gosha\source\repos\Design Patterns\Builder\Without\obj\Debug\netcoreapp3.1\Without.pdb
+C:\Users\gosha\source\repos\Design Patterns\Builder\Without\obj\Debug\netcoreapp3.1\Without.genruntimeconfig.cache
+C:\Users\gosha\source\repos\Builder\Without\bin\Debug\netcoreapp3.1\Without.exe
+C:\Users\gosha\source\repos\Builder\Without\bin\Debug\netcoreapp3.1\Without.deps.json
+C:\Users\gosha\source\repos\Builder\Without\bin\Debug\netcoreapp3.1\Without.runtimeconfig.json
+C:\Users\gosha\source\repos\Builder\Without\bin\Debug\netcoreapp3.1\Without.runtimeconfig.dev.json
+C:\Users\gosha\source\repos\Builder\Without\bin\Debug\netcoreapp3.1\Without.dll
+C:\Users\gosha\source\repos\Builder\Without\bin\Debug\netcoreapp3.1\Without.pdb
+C:\Users\gosha\source\repos\Builder\Without\obj\Debug\netcoreapp3.1\Without.csprojAssemblyReference.cache
+C:\Users\gosha\source\repos\Builder\Without\obj\Debug\netcoreapp3.1\Without.AssemblyInfoInputs.cache
+C:\Users\gosha\source\repos\Builder\Without\obj\Debug\netcoreapp3.1\Without.AssemblyInfo.cs
+C:\Users\gosha\source\repos\Builder\Without\obj\Debug\netcoreapp3.1\Without.csproj.CoreCompileInputs.cache
+C:\Users\gosha\source\repos\Builder\Without\obj\Debug\netcoreapp3.1\Without.dll
+C:\Users\gosha\source\repos\Builder\Without\obj\Debug\netcoreapp3.1\Without.pdb
+C:\Users\gosha\source\repos\Builder\Without\obj\Debug\netcoreapp3.1\Without.genruntimeconfig.cache

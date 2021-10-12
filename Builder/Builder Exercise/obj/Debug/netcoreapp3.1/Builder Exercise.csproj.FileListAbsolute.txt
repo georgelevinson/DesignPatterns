@@ -1,0 +1,26 @@
+C:\Users\gosha\source\repos\Design Patterns\Builder\Builder Exercise\bin\Debug\netcoreapp3.1\Builder Exercise.exe
+C:\Users\gosha\source\repos\Design Patterns\Builder\Builder Exercise\bin\Debug\netcoreapp3.1\Builder Exercise.deps.json
+C:\Users\gosha\source\repos\Design Patterns\Builder\Builder Exercise\bin\Debug\netcoreapp3.1\Builder Exercise.runtimeconfig.json
+C:\Users\gosha\source\repos\Design Patterns\Builder\Builder Exercise\bin\Debug\netcoreapp3.1\Builder Exercise.runtimeconfig.dev.json
+C:\Users\gosha\source\repos\Design Patterns\Builder\Builder Exercise\bin\Debug\netcoreapp3.1\Builder Exercise.dll
+C:\Users\gosha\source\repos\Design Patterns\Builder\Builder Exercise\bin\Debug\netcoreapp3.1\Builder Exercise.pdb
+C:\Users\gosha\source\repos\Design Patterns\Builder\Builder Exercise\obj\Debug\netcoreapp3.1\Builder Exercise.csprojAssemblyReference.cache
+C:\Users\gosha\source\repos\Design Patterns\Builder\Builder Exercise\obj\Debug\netcoreapp3.1\Builder Exercise.AssemblyInfoInputs.cache
+C:\Users\gosha\source\repos\Design Patterns\Builder\Builder Exercise\obj\Debug\netcoreapp3.1\Builder Exercise.AssemblyInfo.cs
+C:\Users\gosha\source\repos\Design Patterns\Builder\Builder Exercise\obj\Debug\netcoreapp3.1\Builder Exercise.csproj.CoreCompileInputs.cache
+C:\Users\gosha\source\repos\Design Patterns\Builder\Builder Exercise\obj\Debug\netcoreapp3.1\Builder Exercise.dll
+C:\Users\gosha\source\repos\Design Patterns\Builder\Builder Exercise\obj\Debug\netcoreapp3.1\Builder Exercise.pdb
+C:\Users\gosha\source\repos\Design Patterns\Builder\Builder Exercise\obj\Debug\netcoreapp3.1\Builder Exercise.genruntimeconfig.cache
+C:\Users\gosha\source\repos\Builder\Builder Exercise\bin\Debug\netcoreapp3.1\Builder Exercise.exe
+C:\Users\gosha\source\repos\Builder\Builder Exercise\bin\Debug\netcoreapp3.1\Builder Exercise.deps.json
+C:\Users\gosha\source\repos\Builder\Builder Exercise\bin\Debug\netcoreapp3.1\Builder Exercise.runtimeconfig.json
+C:\Users\gosha\source\repos\Builder\Builder Exercise\bin\Debug\netcoreapp3.1\Builder Exercise.runtimeconfig.dev.json
+C:\Users\gosha\source\repos\Builder\Builder Exercise\bin\Debug\netcoreapp3.1\Builder Exercise.dll
+C:\Users\gosha\source\repos\Builder\Builder Exercise\bin\Debug\netcoreapp3.1\Builder Exercise.pdb
+C:\Users\gosha\source\repos\Builder\Builder Exercise\obj\Debug\netcoreapp3.1\Builder Exercise.csprojAssemblyReference.cache
+C:\Users\gosha\source\repos\Builder\Builder Exercise\obj\Debug\netcoreapp3.1\Builder Exercise.AssemblyInfoInputs.cache
+C:\Users\gosha\source\repos\Builder\Builder Exercise\obj\Debug\netcoreapp3.1\Builder Exercise.AssemblyInfo.cs
+C:\Users\gosha\source\repos\Builder\Builder Exercise\obj\Debug\netcoreapp3.1\Builder Exercise.csproj.CoreCompileInputs.cache
+C:\Users\gosha\source\repos\Builder\Builder Exercise\obj\Debug\netcoreapp3.1\Builder Exercise.dll
+C:\Users\gosha\source\repos\Builder\Builder Exercise\obj\Debug\netcoreapp3.1\Builder Exercise.pdb
+C:\Users\gosha\source\repos\Builder\Builder Exercise\obj\Debug\netcoreapp3.1\Builder Exercise.genruntimeconfig.cache

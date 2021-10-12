@@ -1,0 +1,13 @@
+C:\Users\gosha\source\repos\Builder\Functional Builder\bin\Debug\netcoreapp3.1\Functional Builder.exe
+C:\Users\gosha\source\repos\Builder\Functional Builder\bin\Debug\netcoreapp3.1\Functional Builder.deps.json
+C:\Users\gosha\source\repos\Builder\Functional Builder\bin\Debug\netcoreapp3.1\Functional Builder.runtimeconfig.json
+C:\Users\gosha\source\repos\Builder\Functional Builder\bin\Debug\netcoreapp3.1\Functional Builder.runtimeconfig.dev.json
+C:\Users\gosha\source\repos\Builder\Functional Builder\bin\Debug\netcoreapp3.1\Functional Builder.dll
+C:\Users\gosha\source\repos\Builder\Functional Builder\bin\Debug\netcoreapp3.1\Functional Builder.pdb
+C:\Users\gosha\source\repos\Builder\Functional Builder\obj\Debug\netcoreapp3.1\Functional Builder.csprojAssemblyReference.cache
+C:\Users\gosha\source\repos\Builder\Functional Builder\obj\Debug\netcoreapp3.1\Functional Builder.AssemblyInfoInputs.cache
+C:\Users\gosha\source\repos\Builder\Functional Builder\obj\Debug\netcoreapp3.1\Functional Builder.AssemblyInfo.cs
+C:\Users\gosha\source\repos\Builder\Functional Builder\obj\Debug\netcoreapp3.1\Functional Builder.csproj.CoreCompileInputs.cache
+C:\Users\gosha\source\repos\Builder\Functional Builder\obj\Debug\netcoreapp3.1\Functional Builder.dll
+C:\Users\gosha\source\repos\Builder\Functional Builder\obj\Debug\netcoreapp3.1\Functional Builder.pdb
+C:\Users\gosha\source\repos\Builder\Functional Builder\obj\Debug\netcoreapp3.1\Functional Builder.genruntimeconfig.cache

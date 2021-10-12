@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ojGHDyd/EYGdrYpalgRzivRbDXjIDZexulmXSEDDnlPqKS0QgM477qZPQ7T/BxDUvyEMNkZklu+8/L5BJUgn0A==",
+  "dgSpecHash": "XFFqJcH3DU2A01DErb28GOCLGD0sFlnUY4bwSPFyRbLGJs2sWvHt/PPF8waRdZub88BGd3i0DX6guGumYhbL3g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\gosha\\source\\repos\\Design Patterns\\SOLID\\Dependency Inversion\\SOLID D.csproj",
+  "projectFilePath": "C:\\Users\\gosha\\source\\repos\\DesignPatterns\\SOLID\\Dependency Inversion\\Dependency Inversion.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

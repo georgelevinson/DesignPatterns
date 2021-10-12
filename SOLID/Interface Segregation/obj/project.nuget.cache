@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bmzX7mulQc/5jcyPCJrWDGvmcxKwlhRSmPNUdiIQkD+0D6w80PldpcsR/D8BO7+mLeTjPwEtsrhaYMBq1fP2VA==",
+  "dgSpecHash": "MggptEZNUb6zNJONd1Rb7XgRzDfWU4Pj39DXfnmQ55WGzBfzW8rL7E2uKsuz5MrC78Ij7IIOTsDXoaOKHr0Omg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\gosha\\source\\repos\\Design Patterns\\SOLID\\Interface Segregation\\SOLID I.csproj",
+  "projectFilePath": "C:\\Users\\gosha\\source\\repos\\DesignPatterns\\SOLID\\Interface Segregation\\Interface Segregation.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

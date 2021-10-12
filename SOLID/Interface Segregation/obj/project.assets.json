@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gosha\\source\\repos\\Design Patterns\\SOLID\\Interface Segregation\\SOLID I.csproj",
-      "projectName": "SOLID I",
-      "projectPath": "C:\\Users\\gosha\\source\\repos\\Design Patterns\\SOLID\\Interface Segregation\\SOLID I.csproj",
+      "projectUniqueName": "C:\\Users\\gosha\\source\\repos\\DesignPatterns\\SOLID\\Interface Segregation\\Interface Segregation.csproj",
+      "projectName": "Interface Segregation",
+      "projectPath": "C:\\Users\\gosha\\source\\repos\\DesignPatterns\\SOLID\\Interface Segregation\\Interface Segregation.csproj",
       "packagesPath": "C:\\Users\\gosha\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gosha\\source\\repos\\Design Patterns\\SOLID\\Interface Segregation\\obj\\",
+      "outputPath": "C:\\Users\\gosha\\source\\repos\\DesignPatterns\\SOLID\\Interface Segregation\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\gosha\\AppData\\Roaming\\NuGet\\NuGet.Config",

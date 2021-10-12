@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "5qRRbLcR7m9Etiw34fHkilIV/Kkum4aaYjwxX0lGYfzsPgWU2SZBSyZ7hy2wKxUmjnAK+mcKuqdqYV1UWKR/Ug==",
+  "dgSpecHash": "5org5J2dtfadzOb2mcBpRupldIcFD4ee8PojwxGHjifxvW8S6qX83u/uwqWtANSqrecV8vejHizE3IZ9Lh+slg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\gosha\\source\\repos\\Design Patterns\\Prototype\\Prototype.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\gosha\\source\\repos\\DesignPatterns\\Prototype\\Prototype\\Prototype.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gosha\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
   "logs": []
 }

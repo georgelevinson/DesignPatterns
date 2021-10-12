@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gosha\\source\\repos\\Design Patterns\\SOLID\\Liskov Substitution\\SOLID L.csproj",
-      "projectName": "SOLID L",
-      "projectPath": "C:\\Users\\gosha\\source\\repos\\Design Patterns\\SOLID\\Liskov Substitution\\SOLID L.csproj",
+      "projectUniqueName": "C:\\Users\\gosha\\source\\repos\\DesignPatterns\\SOLID\\Liskov Substitution\\Liskov Substitution.csproj",
+      "projectName": "Liskov Substitution",
+      "projectPath": "C:\\Users\\gosha\\source\\repos\\DesignPatterns\\SOLID\\Liskov Substitution\\Liskov Substitution.csproj",
       "packagesPath": "C:\\Users\\gosha\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gosha\\source\\repos\\Design Patterns\\SOLID\\Liskov Substitution\\obj\\",
+      "outputPath": "C:\\Users\\gosha\\source\\repos\\DesignPatterns\\SOLID\\Liskov Substitution\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\gosha\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,0 +1,13 @@
+C:\Users\gosha\source\repos\Builder\Fluent Bulider Inheritence\bin\Debug\netcoreapp3.1\Fluent Bulider Inheritence.exe
+C:\Users\gosha\source\repos\Builder\Fluent Bulider Inheritence\bin\Debug\netcoreapp3.1\Fluent Bulider Inheritence.deps.json
+C:\Users\gosha\source\repos\Builder\Fluent Bulider Inheritence\bin\Debug\netcoreapp3.1\Fluent Bulider Inheritence.runtimeconfig.json
+C:\Users\gosha\source\repos\Builder\Fluent Bulider Inheritence\bin\Debug\netcoreapp3.1\Fluent Bulider Inheritence.runtimeconfig.dev.json
+C:\Users\gosha\source\repos\Builder\Fluent Bulider Inheritence\bin\Debug\netcoreapp3.1\Fluent Bulider Inheritence.dll
+C:\Users\gosha\source\repos\Builder\Fluent Bulider Inheritence\bin\Debug\netcoreapp3.1\Fluent Bulider Inheritence.pdb
+C:\Users\gosha\source\repos\Builder\Fluent Bulider Inheritence\obj\Debug\netcoreapp3.1\Fluent Bulider Inheritence.csprojAssemblyReference.cache
+C:\Users\gosha\source\repos\Builder\Fluent Bulider Inheritence\obj\Debug\netcoreapp3.1\Fluent Bulider Inheritence.AssemblyInfoInputs.cache
+C:\Users\gosha\source\repos\Builder\Fluent Bulider Inheritence\obj\Debug\netcoreapp3.1\Fluent Bulider Inheritence.AssemblyInfo.cs
+C:\Users\gosha\source\repos\Builder\Fluent Bulider Inheritence\obj\Debug\netcoreapp3.1\Fluent Bulider Inheritence.csproj.CoreCompileInputs.cache
+C:\Users\gosha\source\repos\Builder\Fluent Bulider Inheritence\obj\Debug\netcoreapp3.1\Fluent Bulider Inheritence.dll
+C:\Users\gosha\source\repos\Builder\Fluent Bulider Inheritence\obj\Debug\netcoreapp3.1\Fluent Bulider Inheritence.pdb
+C:\Users\gosha\source\repos\Builder\Fluent Bulider Inheritence\obj\Debug\netcoreapp3.1\Fluent Bulider Inheritence.genruntimeconfig.cache

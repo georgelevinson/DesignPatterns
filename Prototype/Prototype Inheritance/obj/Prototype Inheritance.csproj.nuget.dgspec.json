@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gosha\\source\\repos\\Design Patterns\\Prototype Inheritance\\Prototype Inheritance.csproj": {}
+    "C:\\Users\\gosha\\source\\repos\\DesignPatterns\\Prototype\\Prototype Inheritance\\Prototype Inheritance.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gosha\\source\\repos\\Design Patterns\\Prototype Inheritance\\Prototype Inheritance.csproj": {
+    "C:\\Users\\gosha\\source\\repos\\DesignPatterns\\Prototype\\Prototype Inheritance\\Prototype Inheritance.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gosha\\source\\repos\\Design Patterns\\Prototype Inheritance\\Prototype Inheritance.csproj",
+        "projectUniqueName": "C:\\Users\\gosha\\source\\repos\\DesignPatterns\\Prototype\\Prototype Inheritance\\Prototype Inheritance.csproj",
         "projectName": "Prototype Inheritance",
-        "projectPath": "C:\\Users\\gosha\\source\\repos\\Design Patterns\\Prototype Inheritance\\Prototype Inheritance.csproj",
+        "projectPath": "C:\\Users\\gosha\\source\\repos\\DesignPatterns\\Prototype\\Prototype Inheritance\\Prototype Inheritance.csproj",
         "packagesPath": "C:\\Users\\gosha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gosha\\source\\repos\\Design Patterns\\Prototype Inheritance\\obj\\",
+        "outputPath": "C:\\Users\\gosha\\source\\repos\\DesignPatterns\\Prototype\\Prototype Inheritance\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gosha\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -49,12 +49,18 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.1.18, 3.1.18]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.303\\RuntimeIdentifierGraph.json"
         }
       }
     }

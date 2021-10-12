@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gosha\\source\\repos\\Design Patterns\\SOLID\\Dependency Inversion\\SOLID D.csproj",
-      "projectName": "SOLID D",
-      "projectPath": "C:\\Users\\gosha\\source\\repos\\Design Patterns\\SOLID\\Dependency Inversion\\SOLID D.csproj",
+      "projectUniqueName": "C:\\Users\\gosha\\source\\repos\\DesignPatterns\\SOLID\\Dependency Inversion\\Dependency Inversion.csproj",
+      "projectName": "Dependency Inversion",
+      "projectPath": "C:\\Users\\gosha\\source\\repos\\DesignPatterns\\SOLID\\Dependency Inversion\\Dependency Inversion.csproj",
       "packagesPath": "C:\\Users\\gosha\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gosha\\source\\repos\\Design Patterns\\SOLID\\Dependency Inversion\\obj\\",
+      "outputPath": "C:\\Users\\gosha\\source\\repos\\DesignPatterns\\SOLID\\Dependency Inversion\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\gosha\\AppData\\Roaming\\NuGet\\NuGet.Config",

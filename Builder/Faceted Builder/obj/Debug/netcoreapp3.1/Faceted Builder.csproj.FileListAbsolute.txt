@@ -1,0 +1,26 @@
+C:\Users\gosha\source\repos\Design Patterns\Builder\Faceted Builder\bin\Debug\netcoreapp3.1\Faceted Builder.exe
+C:\Users\gosha\source\repos\Design Patterns\Builder\Faceted Builder\bin\Debug\netcoreapp3.1\Faceted Builder.deps.json
+C:\Users\gosha\source\repos\Design Patterns\Builder\Faceted Builder\bin\Debug\netcoreapp3.1\Faceted Builder.runtimeconfig.json
+C:\Users\gosha\source\repos\Design Patterns\Builder\Faceted Builder\bin\Debug\netcoreapp3.1\Faceted Builder.runtimeconfig.dev.json
+C:\Users\gosha\source\repos\Design Patterns\Builder\Faceted Builder\bin\Debug\netcoreapp3.1\Faceted Builder.dll
+C:\Users\gosha\source\repos\Design Patterns\Builder\Faceted Builder\bin\Debug\netcoreapp3.1\Faceted Builder.pdb
+C:\Users\gosha\source\repos\Design Patterns\Builder\Faceted Builder\obj\Debug\netcoreapp3.1\Faceted Builder.csprojAssemblyReference.cache
+C:\Users\gosha\source\repos\Design Patterns\Builder\Faceted Builder\obj\Debug\netcoreapp3.1\Faceted Builder.AssemblyInfoInputs.cache
+C:\Users\gosha\source\repos\Design Patterns\Builder\Faceted Builder\obj\Debug\netcoreapp3.1\Faceted Builder.AssemblyInfo.cs
+C:\Users\gosha\source\repos\Design Patterns\Builder\Faceted Builder\obj\Debug\netcoreapp3.1\Faceted Builder.csproj.CoreCompileInputs.cache
+C:\Users\gosha\source\repos\Design Patterns\Builder\Faceted Builder\obj\Debug\netcoreapp3.1\Faceted Builder.dll
+C:\Users\gosha\source\repos\Design Patterns\Builder\Faceted Builder\obj\Debug\netcoreapp3.1\Faceted Builder.pdb
+C:\Users\gosha\source\repos\Design Patterns\Builder\Faceted Builder\obj\Debug\netcoreapp3.1\Faceted Builder.genruntimeconfig.cache
+C:\Users\gosha\source\repos\Builder\Faceted Builder\bin\Debug\netcoreapp3.1\Faceted Builder.exe
+C:\Users\gosha\source\repos\Builder\Faceted Builder\bin\Debug\netcoreapp3.1\Faceted Builder.deps.json
+C:\Users\gosha\source\repos\Builder\Faceted Builder\bin\Debug\netcoreapp3.1\Faceted Builder.runtimeconfig.json
+C:\Users\gosha\source\repos\Builder\Faceted Builder\bin\Debug\netcoreapp3.1\Faceted Builder.runtimeconfig.dev.json
+C:\Users\gosha\source\repos\Builder\Faceted Builder\bin\Debug\netcoreapp3.1\Faceted Builder.dll
+C:\Users\gosha\source\repos\Builder\Faceted Builder\bin\Debug\netcoreapp3.1\Faceted Builder.pdb
+C:\Users\gosha\source\repos\Builder\Faceted Builder\obj\Debug\netcoreapp3.1\Faceted Builder.csprojAssemblyReference.cache
+C:\Users\gosha\source\repos\Builder\Faceted Builder\obj\Debug\netcoreapp3.1\Faceted Builder.AssemblyInfoInputs.cache
+C:\Users\gosha\source\repos\Builder\Faceted Builder\obj\Debug\netcoreapp3.1\Faceted Builder.AssemblyInfo.cs
+C:\Users\gosha\source\repos\Builder\Faceted Builder\obj\Debug\netcoreapp3.1\Faceted Builder.csproj.CoreCompileInputs.cache
+C:\Users\gosha\source\repos\Builder\Faceted Builder\obj\Debug\netcoreapp3.1\Faceted Builder.dll
+C:\Users\gosha\source\repos\Builder\Faceted Builder\obj\Debug\netcoreapp3.1\Faceted Builder.pdb
+C:\Users\gosha\source\repos\Builder\Faceted Builder\obj\Debug\netcoreapp3.1\Faceted Builder.genruntimeconfig.cache

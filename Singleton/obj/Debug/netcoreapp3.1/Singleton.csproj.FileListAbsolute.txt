@@ -1,0 +1,16 @@
+C:\Users\gosha\source\repos\DesignPatterns\Singleton\obj\Debug\netcoreapp3.1\Singleton.csproj.AssemblyReference.cache
+C:\Users\gosha\source\repos\DesignPatterns\Singleton\obj\Debug\netcoreapp3.1\Singleton.AssemblyInfoInputs.cache
+C:\Users\gosha\source\repos\DesignPatterns\Singleton\obj\Debug\netcoreapp3.1\Singleton.AssemblyInfo.cs
+C:\Users\gosha\source\repos\DesignPatterns\Singleton\obj\Debug\netcoreapp3.1\Singleton.csproj.CoreCompileInputs.cache
+C:\Users\gosha\source\repos\DesignPatterns\Singleton\bin\Debug\netcoreapp3.1\capitals.txt
+C:\Users\gosha\source\repos\DesignPatterns\Singleton\bin\Debug\netcoreapp3.1\Singleton.exe
+C:\Users\gosha\source\repos\DesignPatterns\Singleton\bin\Debug\netcoreapp3.1\Singleton.deps.json
+C:\Users\gosha\source\repos\DesignPatterns\Singleton\bin\Debug\netcoreapp3.1\Singleton.runtimeconfig.json
+C:\Users\gosha\source\repos\DesignPatterns\Singleton\bin\Debug\netcoreapp3.1\Singleton.runtimeconfig.dev.json
+C:\Users\gosha\source\repos\DesignPatterns\Singleton\bin\Debug\netcoreapp3.1\Singleton.dll
+C:\Users\gosha\source\repos\DesignPatterns\Singleton\bin\Debug\netcoreapp3.1\Singleton.pdb
+C:\Users\gosha\source\repos\DesignPatterns\Singleton\bin\Debug\netcoreapp3.1\MoreLinq.dll
+C:\Users\gosha\source\repos\DesignPatterns\Singleton\obj\Debug\netcoreapp3.1\Singleton.csproj.CopyComplete
+C:\Users\gosha\source\repos\DesignPatterns\Singleton\obj\Debug\netcoreapp3.1\Singleton.dll
+C:\Users\gosha\source\repos\DesignPatterns\Singleton\obj\Debug\netcoreapp3.1\Singleton.pdb
+C:\Users\gosha\source\repos\DesignPatterns\Singleton\obj\Debug\netcoreapp3.1\Singleton.genruntimeconfig.cache
