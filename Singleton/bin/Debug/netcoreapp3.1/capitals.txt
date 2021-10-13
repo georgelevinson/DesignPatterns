@@ -7,7 +7,7 @@ Sao Paulo
 Seoul
 17500000
 Mexico City
-12300000
+17400000
 Osaka
 16425000
 Manila
